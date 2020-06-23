@@ -8,7 +8,7 @@
 
 import Foundation
 
-/// Name from user input via readline
+/// Name from user input via readline totalslim
 var name: String = ""
 /// Peran or Role user via readline
 var peran: String = ""
